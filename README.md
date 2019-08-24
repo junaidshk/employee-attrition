@@ -1,7 +1,7 @@
 # Employee Attrition Prediction
-Predicting whether the employee is going to leave or not.
+Predicting whether the employee is going to churn or not.
 <br><br>
-Data contains different attributes of an employee and the target variable Atrition. EmployeeNumber is the primary key. We use this dataset to predict employee churn.
+Data contains different attributes of an employee and the target variable <b><i>Attrition</i><b>. <b><i>EmployeeNumber</i><b> is the primary key. We use this dataset to predict employee churn.
 <br><br>
 <b>Some data definitions:</b> 
 <br><b><i>Education:</b></i> 1 'Below College' 2 'College' 3 'Bachelor' 4 'Master' 5 'Doctor'
