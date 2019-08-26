@@ -1,4 +1,4 @@
-# Employee Attrition Prediction
+# Employee Attrition Prediction using R
 <br>
 Data contains different attributes of an employee and the target variable is <b><i>'Attrition'</i></b>. <b><i>'EmployeeNumber'</i></b> is the primary key. We use this dataset to predict whether the employee is going to churn or not.
 <br><br>
